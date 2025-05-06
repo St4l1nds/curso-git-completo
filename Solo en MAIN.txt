@@ -1,1 +1,3 @@
-Esto solo existe en main en ninguna otra rama
+Esto solo existe en MAIN en ninguna otra rama
+
+SE añadio esta linea y MAIN en mayusculas desde el repositorio remoto
